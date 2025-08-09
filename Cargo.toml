@@ -4,8 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-pixels = "0.15.0"
-winit = "0.30.11"
 fastrand = "2.3.0"
 minifb = "0.28.0"
 rfd = "0.15.4"
